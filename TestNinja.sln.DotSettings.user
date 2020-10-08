@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=044744b7_002D0318_002D4592_002Dbd01_002D4e55173a0745/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanBeCancelledBy_SameUserCancellingReservation_ReturnTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.HtmlFormatterTest.FormatAsBold_WhenCalled_ShouldEncloseToString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.CustomerControllerTests.GetCustomer_IdIsZero_ReturnNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.ErrorLoggerTests.Log_WhenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.Mocking.OrderServiceTests.PlaceOrder_WhenCalled_StoreTheOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_NoSpeeding_ReturnZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_Speeding_ReturnPoints&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_SpeedIsNegative_ThrowArgumentOutOfRangeException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenCall_ReturnDemeritPoints&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.StackTests.Push_ArgIsNull_ThrowArgNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.StackTests.Push_ValidArg_AddObject&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.StackTests.Pop_EmptyStack_ThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.StackTests.Pop_WithObjectsStack_ReturnObject&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.StackTests.Peek_WithObjectsStack_ReturnObject&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.Mocking.ClassATests.MethodA_IsCalledMethodB&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.Mocking.ClassATests.MethodA_ParamIsNull_NoCallMethodB&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
