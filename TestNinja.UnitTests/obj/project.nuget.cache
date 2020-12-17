@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7VOyi1N1Q36O3yC6RSZHuejBEPD9E3JkKF1xTCbgId/sqNnzbdu7uu9RVZJiWrPScCHgEJa0mKr6+BUJXDmUYA==",
+  "dgSpecHash": "EwHQafm0LI8CPujAo2ZT8/41W9VzKE8OYGBnEw4qy9vs8vYptYloT9XAi3cWVgZqn5UvfpR73bnJ/b+sXMNJGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zyghtadmin\\Desktop\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -73,7 +73,8 @@
     "C:\\Users\\zyghtadmin\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\zyghtadmin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\zyghtadmin\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\zyghtadmin\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\zyghtadmin\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\zyghtadmin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

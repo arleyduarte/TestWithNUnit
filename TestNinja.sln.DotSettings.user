@@ -19,5 +19,7 @@
     &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.StackTests.Peek_WithObjectsStack_ReturnObject&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.Mocking.ClassATests.MethodA_IsCalledMethodB&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C63C410-C35D-4C7F-94AB-EAAD03FC10AD::.NETCoreApp,Version=v3.1::TestNinja.UnitTests.Mocking.ClassATests.MethodA_ParamIsNull_NoCallMethodB&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A546D5B0-E41A-44A2-8D30-A31DCDADB0E7::.NETCoreApp,Version=v5.0::DesignPatterns.Program.Tests.SolutionTests.SelectCandidateTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A546D5B0-E41A-44A2-8D30-A31DCDADB0E7::.NETCoreApp,Version=v5.0::DesignPatterns.Program.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
